@@ -37,7 +37,7 @@ python3 src/calculadora.py
 Desde la raíz del proyecto, ejecutá los test:
 
 ```
-python3 -m unittest test_calculadora.py
+python3 -m unittest tests/test_calculadora.py
 
 ```
 ---
