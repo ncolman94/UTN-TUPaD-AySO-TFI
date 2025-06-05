@@ -6,6 +6,8 @@ Este proyecto integrador tiene como finalidad aplicar los conocimientos adquirid
 
 Se trabajó con **VirtualBox** como herramienta principal y se utilizó una distribución de Linux —**Ubuntu Server 24.04.2**— para realizar pruebas de instalación, configuración de servicios y validación en red.
 
+Además desarrollamos una aplicación en Python que funciona como una calculadora. La idea fue aplicar conceptos básicos de funciones, condicionales y estructuras de control adquiridos en la materia de Programación I.
+
 ---
 
 ## Estructura del Repositorio
