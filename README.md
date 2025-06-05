@@ -19,6 +19,27 @@ README.md            → Este archivo
 
 ---
 
+## Iniciar calculadora
+
+Desde la raíz del proyecto, ejecutá:
+
+```
+python3 src/calculadora.py
+
+```
+
+---
+
+## Correr los test
+
+Desde la raíz del proyecto, ejecutá los test:
+
+```
+python3 -m unittest test_calculadora.py
+
+```
+---
+
 ## Autores
 
 - [Benjamin Ugarte](https://github.com/benja-UG)
