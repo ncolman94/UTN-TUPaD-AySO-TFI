@@ -42,11 +42,13 @@ def mostrar_menu():
     print("4. Dividir")
     print("5. Potencia")
 
-mostrar_menu()
-opcion = input("Seleccioná una opción: ")
 
-num1 = float(input("Ingresá el primer número: "))
-num2 = float(input("Ingresá el segundo número: "))
+if __name__ == "__main__":
+    mostrar_menu()
+    opcion = input("Seleccioná una opción: ")
 
-resultado = calcular(opcion, num1, num2)
-print("Resultado:", resultado)
+    num1 = float(input("Ingresá el primer número: "))
+    num2 = float(input("Ingresá el segundo número: "))
+
+    resultado = calcular(opcion, num1, num2)
+    print("Resultado:", resultado)
